@@ -1,0 +1,16 @@
+{
+    "name": "yudi/php-mvc",
+    "description": "Tugas 2 Pemrograman Berbasis Web Lanjutan",
+    "autoload": {
+        "psr-4": {
+            "Yudi\\PhpMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yudilizardimahnasiregar",
+            "email": "yudilizardimahnasiregar@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
